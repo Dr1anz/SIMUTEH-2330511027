@@ -1,0 +1,11 @@
+kelompok,kondisi,sebelum,sesudah,perubahan_persen
+berbercak,normal,8.697,9.713,11.68
+berbercak,gelap,8.948,15.929,78.03
+berbercak,terang,6.535,6.333,-3.09
+berbercak,kontras_rendah,3.558,4.665,31.13
+berbercak,bayangan,4.851,8.196,68.95
+sehat,normal,11.02,9.148,-16.98
+sehat,gelap,10.073,6.959,-30.91
+sehat,terang,9.065,11.16,23.1
+sehat,kontras_rendah,9.995,10.429,4.34
+sehat,bayangan,14.794,11.264,-23.86

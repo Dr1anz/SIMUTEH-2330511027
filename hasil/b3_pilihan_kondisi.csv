@@ -1,0 +1,9 @@
+nama,kondisi,metode,KB_sebelum,KB_sesudah
+teh_022,gelap,regang persentil 2-98,4.431,4.724
+teh_042,gelap,regang persentil 2-98,3.705,4.009
+teh_023,terang,gamma 1.8,1.467,1.608
+teh_043,terang,gamma 1.8,2.802,3.04
+teh_024,kontras_rendah,ekualisasi histogram,0.648,1.049
+teh_044,kontras_rendah,ekualisasi histogram,2.029,2.73
+teh_025,bayangan,CLAHE clip 2 tile 8,0.187,0.794
+teh_045,bayangan,CLAHE clip 2 tile 8,2.031,2.278
