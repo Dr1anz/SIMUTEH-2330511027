@@ -1,9 +1,11 @@
 # SIMUTEH - Evaluasi Praktikum Computer Vision P1-P4
 
-**Nama:** Adriana Syahban
-**NIM:** 2330511027
-**Kelas:** 7A
+**Nama:** Adriana Syahban 
+
+**NIM:** 2330511027 **Kelas:** 7A
+
 **SEED dataset:** `1027`
+
 **Repository:** https://github.com/Dr1anz/SIMUTEH-2330511027
 
 ## Ringkasan proyek
