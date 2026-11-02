@@ -2,7 +2,9 @@
 
 **Nama:** Adriana Syahban 
 
-**NIM:** 2330511027 **Kelas:** 7A
+**NIM:** 2330511027 
+
+**Kelas:** 7A
 
 **SEED dataset:** `1027`
 
